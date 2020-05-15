@@ -2,6 +2,7 @@
 @section('title','Mua hàng trực tuyến với fashi')
 @section('content')
     <!-- Hero Section Begin -->
+    {{-- kdkdkd --}}
     <section class="hero-section">
         <div class="hero-items owl-carousel">
             <div class="single-hero-items set-bg" data-setbg="{{asset('public/fontend/img/hero-1.jpg')}}">
